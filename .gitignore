@@ -1,0 +1,7 @@
+node_modules/
+build/
+coverage/
+*.log
+.nyc_output/
+dist/
+.cache/
